@@ -1,0 +1,41 @@
+{
+    "cart": [
+        {
+          "title": {
+            "id": "1",
+            "img": "https://www.jiomart.com/images/product/150x150/490001387/amul-butter-100-g-carton-product-images-o490001387-p490001387-0-202203170403.jpg",
+            "discount": "7",
+            "title": "Amul Butter 100 g (Carton)",
+            "brand": "AMUL",
+            "price": "54.00",
+            "new_price": "50.00"
+          },
+          "status": false,
+          "id": 2
+        },
+        {
+          "title": {
+            "id": "3",
+            "img": "https://www.jiomart.com/images/product/150x150/490001401/amul-cheese-block-200-g-carton-product-images-o490001401-p490001401-0-202204261856.jpg",
+            "discount": "11",
+            "title": "Amul Cheese Block 200 g (Carton)",
+            "brand": "AMUL",
+            "price": "127.00",
+            "new_price": "112.00"
+          },
+          "id": 3
+        },
+        {
+          "title": {
+            "id": "4",
+            "img": "https://www.jiomart.com/images/product/150x150/491213993/parle-real-elaichi-premium-rusk-273-g-product-images-o491213993-p491213993-0-202203150326.jpg",
+            "discount": "25",
+            "title": "Parle Real Elaichi Premium Rusk 273 g",
+            "brand": "PARLE",
+            "price": "55.00",
+            "new_price": "41.00"
+          },
+          "id": 4
+        }
+      ]
+}
